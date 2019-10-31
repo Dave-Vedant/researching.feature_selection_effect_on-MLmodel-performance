@@ -16,4 +16,4 @@ hyper parameter tuning are integral part of modeling
  scikitlearn, numpy, pandas ,matplotlib, seaborn, scipy
  
  ## Flow of ML Programming:
- 
+ Read Data ----> Seperate in X and Y ----> Data Preprocessing ----> Split in Train and test set ----> UDFS Feature selectin ----> No of feature (consideration decision) ----> Train Decision Tree / KNN / SVM ----> Make prediction ----> Accuracy score calculation ----> 10 Fold Cross Validation ----> Measure F1 score and Result comparison.
