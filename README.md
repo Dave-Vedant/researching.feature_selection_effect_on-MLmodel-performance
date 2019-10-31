@@ -9,6 +9,11 @@ hyper parameter tuning are integral part of modeling
 ## Environment:
  Google colaboratory , MATLAB
  
+ ## Algorithm: 
+ KNN, Decision Tree , Support Vector Machine
+ 
+## Feature Selection methods:
+UDFS, LLCFS, CFS
  ## Language:
  Python 3.7
  
