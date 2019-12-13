@@ -114,6 +114,10 @@
 <h2>Conclusion</h2>
 <!-- /wp:heading -->
 
+<!-- wp:list -->
+<ul><li> Reduce the complexity and ML model runtime up to 30 percent ( 4 hrs), and get the accuracy higher than normal algorithm modeling (4 - 5 %).</li><li>Complete the analysis and objective observation according to an academic standard. </li><li>Its effective method for saving the computing power and time. On clund computing we can save time by reducing such complexity.</li></ul>
+<!-- /wp:list -->
+
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
